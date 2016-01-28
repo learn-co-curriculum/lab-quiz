@@ -4,54 +4,22 @@
 
 # Lab Quiz
 
-?: Which one of the following is not the smallest level of curriculum?
+?: Labs in general should be: (check all that apply)
 
-( ) lesson
-(X) unit
-( ) lab
-( ) readme
+[X] test driven
+[X] have a solution branch 
+[ ] tell explicitly how to solve the problem 
 
-?: At the end of a track, what’s an example of a large project you can add?
+?: The introduction of a lab
 
-( ) codealong lab where you build a CMS application
-(X) an open assessment where you build an email application 
-( ) a lab where you have to build your own tests 
+( ) should start with instructions
+(X) provide a scenario or situation 
+( ) let students know what concepts they need to solve it
 
-?: Which of the following is a file that’s common to all lessons?
+?: When you write instructions for a lab, you should think of them as
 
-(X) license file
-( ) spec file
-( ) lib file
-
-?: The contributing file gives guidelines for students on how to 
-
-( ) solve a lab
-(X) raise an issue
-( ) edit the curriculum
-
-?: In a .learn file what are the four categories that you need to add tags for?
-
-( ) languages, frameworks, resources, type
-( ) tags, frameworks, unit, track
-( ) frameworks, unit, track, resources
-(X) tags, language, resources, type
-
-?: When writing a lesson that has objectives already defined, what is the first thing you do? 
-
-( ) write your content in the Master branch
-(X) make a new branch off of Master and write your content in there
-
-?: The contributing file gives guidelines for students on how to 
-
-( ) solve a lab
-(X) raise an issue
-
-?: When you’re finished writing a lesson, what do you do?
-
-(X) make a Pull Request to the master branch
-( ) email us at Flatiron and let us know
-( ) raise an issue in the repository letting us know it’s ready for review
-
+(X) requirements
+( ) step-by-step how-tos
 
 ???
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/lab-quiz'>Lab Quiz</a> on Learn.co and start learning to code for free.</p>
